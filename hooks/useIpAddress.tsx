@@ -23,10 +23,8 @@ const SANCTIONED_COUNTRIES = [
   ['SO', 'Somalia'],
   ['SD', 'Sudan'],
   ['SY', 'Syria'],
-  ['VE', 'Venezuela'],
   ['YE', 'Yemen'],
   ['ZW', 'Zimbabwe'],
-  ['US', 'United States'],
 ]
 
 const SANCTIONED_COUNTRY_CODES = SANCTIONED_COUNTRIES.map(
